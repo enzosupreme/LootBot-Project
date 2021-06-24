@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (something new.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Looter.cpp
+C:\Users\enzos\source\repos\something new\something new\Looter.cpp(142,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\enzos\source\repos\something new\something new\Source.cpp(12,7): warning C4101: 'roll': unreferenced local variable
+  User.cpp
+  Generating Code...
+  something new.vcxproj -> C:\Users\enzos\source\repos\something new\x64\Debug\LootBotv5.exe
